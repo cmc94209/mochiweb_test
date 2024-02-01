@@ -1,0 +1,4 @@
+[{<<"mochiweb">>,
+  {git,"https://github.com/mochi/mochiweb.git",
+       {ref,"4e5372e2fddac7ccfab8ef6f44b7f11246d3f842"}},
+  0}].
